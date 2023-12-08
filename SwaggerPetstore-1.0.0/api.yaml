@@ -4,7 +4,7 @@ data:
   id: 0cb14be2-fb72-4f3c-9b71-4630eefc8ab8
   name: SwaggerPetstore
   description: |-
-    This is the updated 2 sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
+    This is the updated 4 sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
     Swagger at [http://swagger.io](http://swagger.io). In the third iteration of the pet store, we've switched to the design first approach!
     You can now help us improve the API whether it's by making changes to the definition itself or to the code.
     That way, with time, we can improve the API in general, and expose some of the new features in OAS3.
